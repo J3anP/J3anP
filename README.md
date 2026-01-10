@@ -36,16 +36,16 @@
 
 ---
 
-## 📚 Threat Research & Write-ups
+## 📚 Write-ups
 
 <div align="center">
 
-*I document my investigations and "Today I Learned" moments here.*
+*I document my investigations, analysis, and "Today I Learned" moments.*
 
 | 🧠 Knowledge Base | Description | Access |
 | :--- | :--- | :---: |
-| **📘 Blue Team Protocol** | Deep dives into DFIR, Windows Internals, and Incident Response playbooks. | <a href="LINK_WIKI_BLUE">Explore</a> |
-| **📕 Adversary Tactics** | Analysis of Red Team techniques and APT behaviors. | <a href="LINK_WIKI_RED">Explore</a> |
+| **📘 Blue Team** | Defensive security notes, detections, incident response analysis, and DFIR learnings. | <a href="https://github.com/J3anP/Blue-team-wiki/wiki/Blue-Team">Explore</a> |
+| **📕 Red Team** | Analysis of adversary tactics, techniques, and APT behaviors from an offensive perspective. | <a href="LINK_WIKI_RED">Explore</a> |
 
 </div>
 
