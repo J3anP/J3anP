@@ -3,7 +3,7 @@
 # 🛡️ Hi, I'm Jean Piere Ipurre
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Cybersecurity+Analyst;Blue+Team+%26+SOC+Operations;Threat+Intelligence+%26+DFIR+Foundations&font=Fira+Code&center=true&width=600&height=50&color=0077B5&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Cybersecurity+Ethical+Hacker;Blue+Team+%26+SOC+Operations;Threat+Hunter+%26+Read+Team&font=Fira+Code&center=true&width=600&height=50&color=0077B5&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
 </a>
 
 
@@ -16,7 +16,7 @@
 <br>
 
 > **Current Status:** Telecommunications Engineering Student at **PUCP**.
-> <br>**Focus:** Bridging the gap between Network Engineering and Cyber Defense (SOC/DFIR).
+> <br>**Focus:** Bridging the gap between Blue Team and Red Team.
 
 </div>
 
